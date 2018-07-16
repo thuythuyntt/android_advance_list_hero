@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">RecyclerView_ListHero</string>
+    <string name="name_1">Ant man</string>
+    <string name="name_2">Captain America</string>
+    <string name="name_3">Deadpool</string>
+    <string name="name_4">The flash</string>
+    <string name="name_5">Iron man</string>
+    <string name="name_6">Spider man</string>
+    <string name="name_7">Super man</string>
+    <string name="name_8">Wolverine</string>
+
 </resources>
